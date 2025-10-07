@@ -26,8 +26,3 @@ Nội dung gồm:
 1. Mở file **`.sln`** bằng **Visual Studio**  
 2. Chọn **Run (Ctrl + F5)** để chạy ứng dụng console  
 3. Quan sát kết quả hiển thị trong cửa sổ Console  
-
----
-
-## ✨ Ghi chú
-> *"Code chạy mượt – Console sáng gương!"* 😎  
