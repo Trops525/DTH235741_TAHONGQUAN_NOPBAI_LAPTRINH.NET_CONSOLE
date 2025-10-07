@@ -1,28 +1,17 @@
-# 🖥️ Lập trình .NET_Console — Nộp bài tập
+# 🖥️ Lập trình .NET - Nộp bài tập Buổi 1 (Console)
 
 ## 👨‍🎓 Thông tin sinh viên
-| Họ và tên | MSSV | Lớp |
-|------------|--------|-------|
-| **Phó Bảo Phong** | **DTH235731** | **DH24TH2** |
-
----
+- **Họ và tên:** Phó Bảo Phong  
+- **MSSV:** DTH235731  
+- **Lớp:** DH24TH2  
 
 ## 📘 Môn học
 - **Tên môn:** Lập trình .NET  
-- **Hình thức:** Ứng dụng Console  
-
----
 
 ## 🎯 Mục đích
-Repo này được sử dụng để **nộp bài tập Buổi 1** của môn *Lập trình .NET (Console)*.  
-Nội dung gồm:
-- 💻 Viết chương trình chạy trên giao diện console  
-- 🧠 Ôn tập cú pháp cơ bản và thao tác nhập/xuất trong .NET  
-- 🗂️ Lưu trữ bài nộp phục vụ chấm điểm và tham khảo sau này  
-
----
-
-## 🚀 Cách chạy chương trình
-1. Mở file **`.sln`** bằng **Visual Studio**  
-2. Chọn **Run (Ctrl + F5)** để chạy ứng dụng console  
-3. Quan sát kết quả hiển thị trong cửa sổ Console  
+Repo này được sử dụng để lưu trữ và nộp **bài tập Buổi 1 - Ứng dụng Console** của môn học *Lập trình .NET*.  
+Nội dung bài tập bao gồm:
+- Viết chương trình thực thi các thao tác cơ bản trong môi trường Console  
+- Làm quen với cấu trúc chương trình và cú pháp C#  
+- Rèn luyện tư duy logic và khả năng xử lý dữ liệu bằng ngôn ngữ .NET  
+- Củng cố kiến thức cơ bản về cấu trúc chương trình .NET 
